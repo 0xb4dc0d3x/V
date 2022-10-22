@@ -1,0 +1,12 @@
+version: "3"
+services:
+  v2ray:
+    image: ghcr.io/getimages/v2fly-core:v4.45.2
+    container_name: v2ray_freedom
+    restart: always
+    command: [ "v2ray", "-config=/etc/v2ray/config.json" ]
+    ports:
+      - ${VMESS_PORT:-1401}:1401
+    volumes:
+      - ./config/:/etc/v2ray/
+      - ./logs:/var/log/v2ray/
