@@ -1,6 +1,5 @@
 [فارسی](./Readmefa.md) [English](./Readme.md)
-
-#For Freedom ✊🏻
+# For Freedom ✊🏻
 
 create a vps on digitalocean or anyware access to unsonsored internet
 run bellow commands
