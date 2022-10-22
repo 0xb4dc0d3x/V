@@ -46,8 +46,12 @@ cat /proc/sys/kernel/random/uuid
 vmess://your-link
 ```
 برای استفاده و وصل شدن به اینترنت آزاد کافیه از نرم افزار های زیر استفاده کنید
+  
+  
 اندروید: 
 https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en&gl=US
+  
+  
 آی او اس: 
 https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518
 
