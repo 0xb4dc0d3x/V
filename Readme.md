@@ -20,6 +20,8 @@ In the output, it gives you a string of letters and numbers that you have to cop
 After copying, go to `config` dir and then use the command
 
 `cd config` to go to the config dir
+
+
 `sudo nano config.json` to change and configure the server
 
 Line 9 and line 14 are for port and uuid respectively, change them
