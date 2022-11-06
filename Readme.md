@@ -48,4 +48,4 @@ iOS: https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518
 Windows: https://github.com/Burger-Inc/burger-vpn-app/releases/latest
 
 ## todo📃
-Windows, Linux, macOs client
+Linux, macOs client
