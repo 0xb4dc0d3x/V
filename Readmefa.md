@@ -59,6 +59,8 @@ https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en&gl=US
 آی او اس: 
 https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518
 
+ویندوز:
+https://github.com/Burger-Inc/burger-vpn-app/releases/latest
 
 ##  لیست انجام کار ها📃
 ساخت برنامه برای اتصال به اینترنت آزاد برای دسکتاپ ها
