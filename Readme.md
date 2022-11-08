@@ -26,8 +26,7 @@ After copying, go to `config` dir and then use the command
 
 Line 9 and line 14 are for port and uuid respectively, change them
 
-Now shut down the server you created with the `docker stop v2ray_freedom` command and enter the `sudo bash setup.sh` command again after the settings.
-to apply the settings
+Now shut down the server you created with the `docker stop v2ray_freedom` command and enter the `sudo bash setup.sh` command again to apply the settings
 
 -------------------------------------------
 ## How to connect🌐
