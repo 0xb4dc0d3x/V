@@ -1,6 +1,8 @@
 [فارسی](./Readmefa.md) [English](./Readme.md)
 # For Freedom ✊🏻
 
+use x-ui instead
+
 create a vps on digitalocean or anyware access to unsonsored internet
 run bellow commands
 ```
@@ -42,9 +44,6 @@ you can connect to your vmess with any client like
 android: https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en&gl=US
 
 
-iOS: https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518
+iOS: https://apps.apple.com/us/app/napsternetv/id1629465476
 
-Windows: https://github.com/Burger-Inc/burger-vpn-app/releases/latest
-
-## todo📃
-Linux, macOs client
+Desktop: https://github.com/MatsuriDayo/nekoray/releases/latest
