@@ -61,10 +61,10 @@ https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en&gl=US
   
   
 آی او اس: 
-https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518
+https://apps.apple.com/us/app/napsternetv/id1629465476
 
-ویندوز:
-https://github.com/Burger-Inc/burger-vpn-app/releases/latest
+دسکتاپ:
+https://github.com/MatsuriDayo/nekoray/releases/latest
 
 ##  لیست انجام کار ها📃
 ساخت کلاینت برای لینوکس و مک
