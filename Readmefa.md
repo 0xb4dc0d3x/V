@@ -66,6 +66,4 @@ https://apps.apple.com/us/app/napsternetv/id1629465476
 دسکتاپ:
 https://github.com/MatsuriDayo/nekoray/releases/latest
 
-##  لیست انجام کار ها📃
-ساخت کلاینت برای لینوکس و مک
 </div>
