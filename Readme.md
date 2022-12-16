@@ -1,7 +1,7 @@
 [فارسی](./Readmefa.md) [English](./Readme.md)
 # For Freedom ✊🏻
 
-use [x-ui](https://github.com/0xb4dc0d3x/x-ui) instead
+⚠️**use [x-ui](https://github.com/0xb4dc0d3x/x-ui) instead**⚠️
 
 create a vps on digitalocean or anyware access to unsonsored internet
 run bellow commands
